@@ -1,5 +1,5 @@
 ### Hi there 👋
-## <font color=#0000FF>深藍色</font>	Who am I
+## <font color=#0000FF>Who am I</font>
 <!--
 **leefazhen/leefazhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
