@@ -1,7 +1,7 @@
-### Hi there 👋
-## <font color=BLUE>Who am I</font>
-<font color=#008000>我是深綠色</font> 
-
+## <font color=#0000FF>Who am I</font>
+### Educations
+- 2023/09~ 國立陽明交通大學電子所
+- 2020/09~2023/07 國立中央大學 電機工程學系
 <!--
 **leefazhen/leefazhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
