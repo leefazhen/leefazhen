@@ -6,6 +6,11 @@
 - Communication Theorem
   - Holograhpic MIMO
 - Digital Cirutit Design
+### Hobby
+- Guitar
+- Make some snakes
+- Gel nail
+- Makeup
 
 <!--
 **leefazhen/leefazhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
