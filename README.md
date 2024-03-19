@@ -5,7 +5,7 @@
 ### Specialty
 - Communication theorem
   - Holograhpic MIMO
-- Digital IC
+- Digital IC cirutit design
 
 <!--
 **leefazhen/leefazhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
