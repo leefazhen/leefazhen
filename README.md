@@ -1,6 +1,6 @@
 ## <font color=#0000FF>Who am I</font>
 ### Educations
-- 2023/09~ 國立陽明交通大學電子所
+- 2023/09~ 國立陽明交通大學 電子研究所
 - 2020/09~2023/07 國立中央大學 電機工程學系
 ### Specialty
 - Communication theorem
