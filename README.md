@@ -4,7 +4,7 @@
 - 2020/09~2023/07 國立中央大學 電機工程學系
 ### Specialty
 - Communication theorem
-  -- Holograhpic MIMO
+** Holograhpic MIMO
 <!--
 **leefazhen/leefazhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
