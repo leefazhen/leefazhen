@@ -2,7 +2,7 @@
 ### Educations
 - 2023/09~ 國立陽明交通大學電子所
 - 2020/09~2023/07 國立中央大學 電機工程學系
-- ### Specialty
+### Specialty
 - Communication theorem
 <!--
 **leefazhen/leefazhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
