@@ -4,7 +4,8 @@
 - 2020/09~2023/07 國立中央大學 電機工程學系
 <!--
 **leefazhen/leefazhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Specialty
+- Communication theorem
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
